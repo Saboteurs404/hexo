@@ -13,7 +13,7 @@ $ hexo new "My New Post"
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)
-算法、编程 。。。。。
+算法、编程 。。。。。。
 ### Run server
 
 ```bash
