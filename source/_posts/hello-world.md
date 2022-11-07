@@ -35,5 +35,5 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 ```bash
 $ hexo deploy
 ```
-。‘。。。。。。。。。。。。。。。。。。。C
+。‘。。。。。。。。。。。。。。。。。。。C。
 More info: [Deployment](https://hexo.io/docs/deployment.html)
